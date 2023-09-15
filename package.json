@@ -4,6 +4,7 @@
   "description": "A simple cli for fetching PH stock exchange data",
   "main": "index.js",
   "scripts": {
+    "build": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -11,5 +12,9 @@
   "dependencies": {
     "commander": "^11.0.0",
     "figlet": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.1",
+    "typescript": "^5.2.2"
   }
 }
