@@ -1,6 +1,6 @@
 # psei-cli
 
-[![npm version](https://img.shields.io/npm/v/psei-cli.svg)](https://www.npmjs.com/package/psei-cli)
+[![npm version](https://img.shields.io/npm/v/psei-cli.svg)](https://www.npmjs.com/package/@kairoot/psei-cli)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 A simple command-line tool for fetching Philippine stock market data. Built with the [Phisix API](https://github.com/phisix-org/phisix) and inspired by [pse-tracker-cli](https://github.com/ianvizarra/pse-tracker-cli).
