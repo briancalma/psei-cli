@@ -1,5 +1,5 @@
 {
-  "name": "@briancalma/psei-cli",
+  "name": "@kairoot/psei-cli",
   "version": "1.0.0",
   "description": "A simple cli for fetching PH stock exchange data",
   "main": "build/index.js",
