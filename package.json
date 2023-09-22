@@ -1,6 +1,6 @@
 {
   "name": "@kairoot/psei-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple cli for fetching PH stock exchange data",
   "main": "build/index.js",
   "type": "module",
